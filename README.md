@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">My interests</h2>
 <div id="header" align="center" >
-<img src="https://media.giphy.com/media/2v79hFdAcrU4av64XI/giphy.gif)https://media.giphy.com/media/2v79hFdAcrU4av64XI/giphy.gif" width="50"/> Cooking |  <img src="https://media.giphy.com/media/xUOxeSXjqTCTzkq40w/giphy.gif" width="50" /> Shopping  | <img src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="50" /> Codding
+<img src="https://media.giphy.com/media/2v79hFdAcrU4av64XI/giphy.gif)https://media.giphy.com/media/2v79hFdAcrU4av64XI/giphy.gif" width="55"/> Cooking |  <img src="https://media.giphy.com/media/xUOxeSXjqTCTzkq40w/giphy.gif" width="50" /> Shopping  | <img src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="50" /> Codding
 </div>
 
 <h2 align="center" >My skills</h2>
