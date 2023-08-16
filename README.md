@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 
- Pronouns: He/Him
+
 
 <h2 align="center" ></h2>
 <p>
